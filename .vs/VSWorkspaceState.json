@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\dist",
+    "\\dist\\sb-clean-blog-angular"
   ],
   "PreviewInSolutionExplorer": false
 }
